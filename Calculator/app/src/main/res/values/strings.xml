@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button1">더하기</string>
+    <string name="button2">빼기</string>
+    <string name="button3">곱하기</string>
+    <string name="button4">나누기</string>
+    <string name="button5">나머지</string>
+    <string name="resuit">resuit : </string>
+</resources>
