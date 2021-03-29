@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBoxTest</string>
+    <string name="start">선택을 시작하겠습니까?</string>
+    <string name="cheStart">시작함</string>
+    <string name="select">좋아하는 애완동물은?</string>
+    <string name="dog">dog</string>
+    <string name="cat">cat</string>
+    <string name="rabbit">rabbit</string>
+    <string name="finish">선택완료</string>
+</resources>
