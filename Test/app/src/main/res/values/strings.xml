@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+<!--    <string name="strBtn1">버튼입니다 ㅎㅎ</string>-->
+    <string name="hello_world">hello_world</string>
+    <string name="text1">Text1</string>
+    <string name="text2">Text2</string>
+    <string name="text3">Text3</string>
+    <string name="text4">Text4</string>
+    <string name="text5">Text5 single line text text text </string>
+</resources>
